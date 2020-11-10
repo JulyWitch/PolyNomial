@@ -1,0 +1,11 @@
+/home/sajad/babyyy/t1-1/bin/Debug/netcoreapp3.1/t1-1
+/home/sajad/babyyy/t1-1/bin/Debug/netcoreapp3.1/t1-1.deps.json
+/home/sajad/babyyy/t1-1/bin/Debug/netcoreapp3.1/t1-1.runtimeconfig.json
+/home/sajad/babyyy/t1-1/bin/Debug/netcoreapp3.1/t1-1.runtimeconfig.dev.json
+/home/sajad/babyyy/t1-1/bin/Debug/netcoreapp3.1/t1-1.dll
+/home/sajad/babyyy/t1-1/bin/Debug/netcoreapp3.1/t1-1.pdb
+/home/sajad/babyyy/t1-1/obj/Debug/netcoreapp3.1/t1-1.csprojAssemblyReference.cache
+/home/sajad/babyyy/t1-1/obj/Debug/netcoreapp3.1/t1-1.AssemblyInfoInputs.cache
+/home/sajad/babyyy/t1-1/obj/Debug/netcoreapp3.1/t1-1.AssemblyInfo.cs
+/home/sajad/babyyy/t1-1/obj/Debug/netcoreapp3.1/t1-1.dll
+/home/sajad/babyyy/t1-1/obj/Debug/netcoreapp3.1/t1-1.pdb
